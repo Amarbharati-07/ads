@@ -1,5 +1,4 @@
-Amar
- 
+
  import java.util.Scanner;
 class AdjacencyMatrix {
  private int[][] adj;
